@@ -3,6 +3,8 @@
 
 ## Progress:
 Assignment 1 :heavy_check_mark:
+
 Assignment 2 
+
 Assignment 3 
 
