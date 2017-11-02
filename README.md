@@ -4,7 +4,7 @@
 ## Progress:
 Assignment 1 :heavy_check_mark:
 
-Assignment 2 
+Assignment 2 :heavy_check_mark:
 
 Assignment 3 
 
